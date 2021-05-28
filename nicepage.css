@@ -1,12 +1,3 @@
-/*begin-commonstyles library*/
-
-
-/*!
- * froala_editor v3.2.3 (https://www.froala.com/wysiwyg-editor)
- * License https://froala.com/wysiwyg-editor/terms/
- * Copyright 2014-2020 Froala Labs
- */
-
 .fr-clearfix::after {
     clear: both;
     display: block;
@@ -187,7 +178,7 @@
 }
 
 .fr-view .fr-text-gray {
-    color: #AAA !important;
+    color: rgb(255, 0, 0) !important;
 }
 
 .fr-view .fr-text-bordered {
@@ -4810,7 +4801,7 @@ a {
 }
 
 .u-image.u-logo img {
-    display: block;
+    display: flex;
 }
 
 .u-form-horizontal {
@@ -22906,7 +22897,7 @@ h6 {
 
 .u-body {
     color: #111111;
-    background-color: #ffffff;
+    background-color: #d6d6d6;
 }
 
 
@@ -27114,8 +27105,8 @@ a.u-link.u-hover-palette-5-dark-2:hover {
 .u-body.u-palette-5-dark-1,
 .u-container-style.u-palette-5-dark-1:before,
 .u-table-alt-palette-5-dark-1 tr:nth-child(even) {
-    color: #ffffff;
-    background-color: #ff6500;
+    color: #000000;
+    background-color: #d6d6d6;
     /
 }
 
@@ -28685,7 +28676,7 @@ a.u-link.u-hover-grey-75:hover {
 .u-container-style.u-grey-80:before,
 .u-table-alt-grey-80 tr:nth-child(even) {
     color: #ffffff;
-    background-color: #333333;
+    background-color: #000;
 }
 
 .u-button-style.u-grey-80,
@@ -38961,7 +38952,7 @@ blockquote {
 }
 
 .u-header .u-logo-image-1 {
-    max-width: 64px;
+    max-width: ;
     max-height: 64px;
 }
 
