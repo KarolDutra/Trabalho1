@@ -1,3 +1,8 @@
+.menu-principal {
+    background-color: #ffffff;
+    height: 25px;
+}
+
 .fr-clearfix::after {
     clear: both;
     display: block;
@@ -3978,7 +3983,6 @@ input,
 optgroup,
 select,
 textarea {
-    color: inherit;
     font: inherit;
     margin: 0;
 }
@@ -22896,8 +22900,8 @@ h6 {
 }
 
 .u-body {
-    color: #111111;
-    background-color: #d6d6d6;
+    color: #FC781F;
+    background-color: #ffffff;
 }
 
 
@@ -28675,8 +28679,8 @@ a.u-link.u-hover-grey-75:hover {
 .u-body.u-grey-80,
 .u-container-style.u-grey-80:before,
 .u-table-alt-grey-80 tr:nth-child(even) {
-    color: #ffffff;
-    background-color: #000;
+    color: #000000;
+    background-color: #ffffff;
 }
 
 .u-button-style.u-grey-80,
@@ -35524,7 +35528,7 @@ a.u-button-style.u-button-style.active>.u-text-active-palette-1-base[class*="u-b
 :not(.level-2)>.u-nav>.u-nav-item>a.u-nav-link.u-nav-link.u-text-active-palette-1-base.active,
 .u-popupmenu-items.u-text-hover-palette-1-base .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-palette-1-base .u-nav-link.active {
-    color: #478ac9 !important;
+    color: #ffffff !important;
 }
 
 .u-text-palette-1-base svg,
@@ -38940,7 +38944,8 @@ blockquote {
 /*end-variables sitestylecss*/
 
 .u-header {
-    background-image: none;
+    background-color: #4C4B4B;
+    ;
 }
 
 .u-header .u-sheet-1 {
@@ -39033,4 +39038,13 @@ html {
 }
 
 
+/*end-variables base-font-size*/
+
+3
+/*end-variables base-font-size*/
+
+3
+/*end-variables base-font-size*/
+
+3
 /*end-variables base-font-size*/
