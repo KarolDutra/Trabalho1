@@ -1,7 +1,12 @@
+/*-------------------------------------div-superior-branca---------------------------------------------------*/
+
 .menu-principal {
     background-color: #ffffff;
     height: 25px;
 }
+
+
+/*-----------------------------------------------------------------------------------------------------------*/
 
 html {
     font-family: sans-serif;
@@ -531,7 +536,6 @@ section.u-image,
 }
 
 .u-header .u-logo-image-1 {
-    max-width;
     max-height: 64px;
 }
 

@@ -282,12 +282,12 @@
 /*-------------------------------------------Artesanal-------------------------------------------------------*/
 
 .u-artesanal {
-    background-image: url("images/.png");
+    background-image: url("images/artesanais.png");
     background-position: 50% 50%;
 }
 
 .u-artesanal .u-sheet-1 {
-    min-height: 1300px;
+    min-height: 3700px;
 }
 
 .u-artesanal .u-text-1 {
@@ -296,11 +296,39 @@
     margin: 10px 10px 0;
 }
 
-.u-artesanal .u-text-2 {
+.u-artesanal.u-text-2 {
     margin: 10px 56px 0;
 }
 
 .u-artesanal .u-btn-1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: auto;
+}
+
+
+/*----------------------------------------------BLOG---------------------------------------------------------*/
+
+.u-blog {
+    background-image: url("images/Blog.png");
+    background-position: 50% 50%;
+}
+
+.u-blog .u-sheet-1 {
+    min-height: 3700px;
+}
+
+.u-blog .u-text-1 {
+    font-size: 6rem;
+    font-weight: 700;
+    margin: 10px 10px 0;
+}
+
+.u-blog .u-text-2 {
+    margin: 10px 56px 0;
+}
+
+.u-blog .u-btn-1 {
     text-transform: uppercase;
     font-weight: 700;
     margin: auto;
