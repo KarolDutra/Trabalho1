@@ -169,13 +169,8 @@
 
 /*-------------------------------------------Página-principal------------------------------------------------*/
 
-.u-paginaprincipal {
-    background-image: url("images/full1.png");
-    background-position: 50% 50%;
-}
-
 .u-paginaprincipal .u-sheet-1 {
-    min-height: 1650px;
+    min-height: 100%;
 }
 
 .u-paginaprincipal .u-text-1 {
@@ -197,13 +192,8 @@
 
 /*------------------------------------------------Sobre-nos--------------------------------------------------*/
 
-.u-sobrenos-2 {
-    background-image: url("images/sobre\ nós.png");
-    background-position: 50% 50%;
-}
-
 .u-sobrenos-2 .u-sheet-1 {
-    min-height: 1250px;
+    min-height: 100%;
 }
 
 .u-sobrenos-2 .u-text-1 {
@@ -225,13 +215,8 @@
 
 /*-------------------------------------------Nossos-produtos-------------------------------------------------*/
 
-.u-nossosprodutos {
-    background-image: url("images/nossos\ produtos.png");
-    background-position: 50% 50%;
-}
-
 .u-nossosprodutos .u-sheet-1 {
-    min-height: 1300px;
+    min-height: 100%;
 }
 
 .u-nossosprodutos.u-text-1 {
@@ -253,13 +238,8 @@
 
 /*-------------------------------------------Industrial------------------------------------------------------*/
 
-.u-industrial {
-    background-image: url("images/industriais.png");
-    background-position: 50% 50%;
-}
-
 .u-industrial .u-sheet-1 {
-    min-height: 4090px;
+    min-height: 100px;
 }
 
 .u-industrial.u-text-1 {
@@ -309,13 +289,8 @@
 
 /*----------------------------------------------BLOG---------------------------------------------------------*/
 
-.u-blog {
-    background-image: url("images/Blog.png");
-    background-position: 50% 50%;
-}
-
 .u-blog .u-sheet-1 {
-    min-height: 3700px;
+    min-height: 100%;
 }
 
 .u-blog .u-text-1 {
