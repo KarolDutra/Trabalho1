@@ -261,13 +261,8 @@
 
 /*-------------------------------------------Artesanal-------------------------------------------------------*/
 
-.artesanal {
-    background-image: url("images/artesanais.png");
-    background-position: 50% 50%;
-}
-
 .u-artesanal .u-sheet-1 {
-    min-height: 3700px;
+    min-height: 100%;
 }
 
 .u-artesanal .u-text-1 {

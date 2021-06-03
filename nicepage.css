@@ -13,7 +13,7 @@ form {
 h1 {
     margin-bottom: 20px;
     margin-left: 20px;
-    color: #f5a021;
+    color: #FC781F;
 }
 
 input,
@@ -29,7 +29,7 @@ textarea {
 }
 
 .enviar {
-    background-color: #f5a021;
+    background-color: #FC781F;
     height: 40px;
     width: 100px;
     font-weight: bold;
@@ -37,7 +37,7 @@ textarea {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border: 1px solid;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 textarea {
@@ -458,7 +458,7 @@ section.u-image,
 /*-----------------------------------------Cor das letras--------------------------------------------------*/
 
 .u-body {
-    color: #f5a021;
+    color: #FC781F;
     background-color: #ffffff;
 }
 
