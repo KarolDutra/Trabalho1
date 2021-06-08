@@ -310,3 +310,19 @@
 body {
     width: 100%;
 }
+
+.imagem {
+    width: 2px;
+    height: 2px;
+}
+
+.texto {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(253, 0, 0);
+    text-align: center;
+    top: px;
+    width: 2500px;
+    line-height: 30px;
+    height: 30px;
+}
